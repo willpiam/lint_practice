@@ -8,3 +8,11 @@ function foo() {
 	const arr = ['nor', "is", `this`,];
 	console.log(`a + b = c`);
 }
+
+function bad() {
+
+}
+
+() => {
+	console.log('please he bad',)
+}
